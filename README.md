@@ -5,5 +5,5 @@ The SweeGy Food Delivery Dashboard is a Power BI report that provides insights i
 <br><br>
 <img src="https://github.com/Nishith2025/SweeGy-Food-Delivery-Dashboard/blob/87c77778042233a1a5087f328aac508a72bd7b08/Dashboard%20Screen%20shot.png" alt="Image Description" width="800">
 <br><br>
-[Demo Vodeo](https://youtu.be/N-uaN9rXSGM)
+[🎥 Watch Dashboard Demo on YouTube](https://youtu.be/N-uaN9rXSGM)
 
